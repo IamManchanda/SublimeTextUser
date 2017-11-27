@@ -1,0 +1,9 @@
+// These settings override both User and Default settings for the HTML syntax
+{
+	"syntaxes": [
+	    {
+	        "syntax": "angular2-html-syntax/Angular2HTML",
+	        "extensions": ["component.html"],
+	    },
+	]
+}

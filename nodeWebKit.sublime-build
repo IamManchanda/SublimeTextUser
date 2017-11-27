@@ -1,0 +1,5 @@
+{
+  "cmd": ["nw", "--enable-logging", "${folder}"],
+  "working_dir": "${folder}",
+  "path": "/usr/bin/"
+}

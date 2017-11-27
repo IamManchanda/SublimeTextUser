@@ -1,0 +1,17 @@
+[
+  { "keys": ["ctrl+super+p"], "command": "insert_snippet", "args": {"contents": "<p>${0:$SELECTION}</p>"} },
+  { "keys": ["ctrl+super+b"], "command": "insert_snippet", "args": {"contents": "<strong>${0:$SELECTION}</strong>"} },
+  { "keys": ["ctrl+super+i"], "command": "insert_snippet", "args": {"contents": "<em>${0:$SELECTION}</em>"} },
+  { "keys": ["ctrl+alt+shift+i"], "command": "insert_snippet", "args": {"contents": "<ins>${0:$SELECTION}</ins>"} },
+  { "keys": ["ctrl+alt+shift+d"], "command": "insert_snippet", "args": {"contents": "<del>${0:$SELECTION}</del>"} },
+  { "keys": ["ctrl+alt+shift+1"], "command": "insert_snippet", "args": {"contents": "<h1>${0:$SELECTION}</h1>"} },
+  { "keys": ["ctrl+alt+shift+2"], "command": "insert_snippet", "args": {"contents": "<h2>${0:$SELECTION}</h2>"} },
+  { "keys": ["ctrl+alt+shift+3"], "command": "insert_snippet", "args": {"contents": "<h3>${0:$SELECTION}</h3>"} },
+  { "keys": ["ctrl+alt+shift+4"], "command": "insert_snippet", "args": {"contents": "<h4>${0:$SELECTION}</h4>"} },
+  { "keys": ["ctrl+alt+shift+5"], "command": "insert_snippet", "args": {"contents": "<h5>${0:$SELECTION}</h5>"} },
+  { "keys": ["ctrl+alt+shift+6"], "command": "insert_snippet", "args": {"contents": "<h6>${0:$SELECTION}</h6>"} },
+  { "keys": ["ctrl+alt+shift+m"], "command": "insert_snippet", "args": {"contents": "<mark>${0:$SELECTION}</mark>"} },
+  { "keys": ["ctrl+alt+shift+s"], "command": "insert_snippet", "args": {"contents": "<small>${0:$SELECTION}</small>"} },
+  { "keys": ["ctrl+alt+shift+up"], "command": "insert_snippet", "args": {"contents": "<sup>${0:$SELECTION}</sup>"} },
+  { "keys": ["ctrl+alt+shift+down"], "command": "insert_snippet", "args": {"contents": "<sub>${0:$SELECTION}</sub>"} }
+]
